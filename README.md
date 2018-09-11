@@ -6,6 +6,8 @@ My Xcode Theme  - Dusk
 ![](https://github.com/zzzzzyijie/My-Xcode-Theme/blob/master/theme1%402x.png)
 
 
+---- 
+
 ![](https://github.com/zzzzzyijie/My-Xcode-Theme/blob/master/theme2%402x.png)
 
 
