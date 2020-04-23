@@ -1,0 +1,18 @@
+//
+//  AppTest.xcconfig
+//  JianZhiApp
+//
+//  Created by Jie on 2020/4/14.
+//  Copyright © 2020 com.jianzhi. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+#include "Pods/Target Support Files/Pods-JianZhiApp/Pods-JianZhiApp.apptest.xcconfig"
+
+APP_DISPLAY_NAME = 简知测试版
+API_BASE_URL = 192.168.1.5:90/api
+DOMAIN_BASE_URL = 192.168.1.5:8083
+
+// Run -->  test环境
+// Archive -->  test环境

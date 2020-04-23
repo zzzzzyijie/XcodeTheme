@@ -1,0 +1,159 @@
+PODS:
+  - AFNetworking (4.0.0):
+    - AFNetworking/NSURLSession (= 4.0.0)
+    - AFNetworking/Reachability (= 4.0.0)
+    - AFNetworking/Security (= 4.0.0)
+    - AFNetworking/Serialization (= 4.0.0)
+    - AFNetworking/UIKit (= 4.0.0)
+  - AFNetworking/NSURLSession (4.0.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (4.0.0)
+  - AFNetworking/Security (4.0.0)
+  - AFNetworking/Serialization (4.0.0)
+  - AFNetworking/UIKit (4.0.0):
+    - AFNetworking/NSURLSession
+  - CTMediator (31)
+  - DZNEmptyDataSet (1.8.1)
+  - FFPopup (1.1.0)
+  - HWPanModal (0.6.7)
+  - IGListDiffKit (4.0.0)
+  - IGListKit (4.0.0):
+    - IGListDiffKit (= 4.0.0)
+  - IQKeyboardManager (6.5.5)
+  - JXCategoryView (1.5.5)
+  - KafkaRefresh (1.4.8):
+    - KafkaRefresh/Category (= 1.4.8)
+    - KafkaRefresh/Configuration (= 1.4.8)
+    - KafkaRefresh/Core (= 1.4.8)
+    - KafkaRefresh/Default (= 1.4.8)
+    - KafkaRefresh/Style (= 1.4.8)
+    - KafkaRefresh/UIKit (= 1.4.8)
+  - KafkaRefresh/Category (1.4.8)
+  - KafkaRefresh/Configuration (1.4.8):
+    - KafkaRefresh/UIKit/FootKit
+    - KafkaRefresh/UIKit/HeadKit
+  - KafkaRefresh/Core (1.4.8):
+    - KafkaRefresh/Category
+  - KafkaRefresh/Default (1.4.8):
+    - KafkaRefresh/Style
+  - KafkaRefresh/Style (1.4.8)
+  - KafkaRefresh/UIKit (1.4.8):
+    - KafkaRefresh/UIKit/FootKit (= 1.4.8)
+    - KafkaRefresh/UIKit/HeadKit (= 1.4.8)
+    - KafkaRefresh/UIKit/LayerKit (= 1.4.8)
+  - KafkaRefresh/UIKit/FootKit (1.4.8):
+    - KafkaRefresh/Category
+    - KafkaRefresh/Core
+    - KafkaRefresh/Default
+    - KafkaRefresh/Style
+    - KafkaRefresh/UIKit/LayerKit
+  - KafkaRefresh/UIKit/HeadKit (1.4.8):
+    - KafkaRefresh/Category
+    - KafkaRefresh/Core
+    - KafkaRefresh/Default
+    - KafkaRefresh/Style
+    - KafkaRefresh/UIKit/LayerKit
+  - KafkaRefresh/UIKit/LayerKit (1.4.8):
+    - KafkaRefresh/Category
+    - KafkaRefresh/Default
+  - Masonry (1.1.0)
+  - MBProgressHUD (1.2.0)
+  - PromiseKit (6.13.1):
+    - PromiseKit/CorePromise (= 6.13.1)
+    - PromiseKit/Foundation (= 6.13.1)
+    - PromiseKit/UIKit (= 6.13.1)
+  - PromiseKit/CorePromise (6.13.1)
+  - PromiseKit/Foundation (6.13.1):
+    - PromiseKit/CorePromise
+  - PromiseKit/UIKit (6.13.1):
+    - PromiseKit/CorePromise
+  - ReactiveObjC (3.1.1)
+  - SDWebImage (5.7.2):
+    - SDWebImage/Core (= 5.7.2)
+  - SDWebImage/Core (5.7.2)
+  - TYCyclePagerView (1.2.0)
+  - TZImagePickerController (3.3.1)
+  - UMCAnalytics (6.1.0):
+    - UMCCommon
+  - UMCCommon (2.1.4)
+  - YYCache (1.0.4)
+  - YYModel (1.0.4)
+  - YYText (1.0.7)
+
+DEPENDENCIES:
+  - AFNetworking (~> 4.0)
+  - CTMediator
+  - DZNEmptyDataSet (~> 1.0)
+  - FFPopup (~> 1.0)
+  - HWPanModal (~> 0.6.0)
+  - IGListKit (~> 4.0.0)
+  - IQKeyboardManager (~> 6.0)
+  - JXCategoryView (~> 1.5)
+  - KafkaRefresh (~> 1.0)
+  - Masonry (~> 1.0)
+  - MBProgressHUD (~> 1.0)
+  - PromiseKit (~> 6.0)
+  - ReactiveObjC (~> 3.0)
+  - SDWebImage (~> 5.0)
+  - TYCyclePagerView (~> 1.0)
+  - TZImagePickerController (~> 3.0)
+  - UMCAnalytics (= 6.1.0)
+  - UMCCommon (= 2.1.4)
+  - YYCache (~> 1.0)
+  - YYModel (~> 1.0)
+  - YYText (~> 1.0)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - AFNetworking
+    - CTMediator
+    - DZNEmptyDataSet
+    - FFPopup
+    - HWPanModal
+    - IGListDiffKit
+    - IGListKit
+    - IQKeyboardManager
+    - JXCategoryView
+    - KafkaRefresh
+    - Masonry
+    - MBProgressHUD
+    - PromiseKit
+    - ReactiveObjC
+    - SDWebImage
+    - TYCyclePagerView
+    - TZImagePickerController
+    - UMCAnalytics
+    - UMCCommon
+    - YYCache
+    - YYModel
+    - YYText
+
+SPEC CHECKSUMS:
+  AFNetworking: d9fdf484a3c723ec3c558a41cc5754c7e845ee77
+  CTMediator: 24a1279bd0909608c7d6a704e660149cc64e5f87
+  DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
+  FFPopup: 408e38711f4fe2fddd3c8612c045cf0df6da2e4e
+  HWPanModal: 8ce3489c30e2268dafc50acdcde50d34f75f35aa
+  IGListDiffKit: 665d6cf43ce726e676013db9c7d6c4294259b6b2
+  IGListKit: fd5a5d21935298f5849fa49d426843cff97b77c7
+  IQKeyboardManager: 3a8b9e603f8b0eeaf5f096a1f2b2cfcf121992ef
+  JXCategoryView: 0293fcb356f10a5c2e679dac0a1a5f1899ee0c87
+  KafkaRefresh: aaae4ff23197f2ef38b6b22ca320740beac4bbb4
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  PromiseKit: 28fda91c973cc377875d8c0ea4f973013c05b6db
+  ReactiveObjC: 011caa393aa0383245f2dcf9bf02e86b80b36040
+  SDWebImage: d9ea4959d99c52276dfada481987018fcaea3d58
+  TYCyclePagerView: 2b051dade0615c70784aa34f40c646feeddb7344
+  TZImagePickerController: 99f03b64145a8c92c55b9b1b931410967d9be4cb
+  UMCAnalytics: 3503f179f7af932b30af9ac161ac11fb48fa72b6
+  UMCCommon: b0703b0053323f598e01670ea702b8eb1e66e611
+  YYCache: 8105b6638f5e849296c71f331ff83891a4942952
+  YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
+  YYText: 5c461d709e24d55a182d1441c41dc639a18a4849
+
+PODFILE CHECKSUM: 3deae79e284f51cc8ade5924c98506be73905322
+
+COCOAPODS: 1.9.1
